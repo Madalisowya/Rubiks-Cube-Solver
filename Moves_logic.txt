@@ -1,0 +1,11 @@
+for all of the faces of the cube, the following operations are defined:
+(note that green is the front face, and white is the top face)
+R : 90 degree clockwise rotation of red face
+L : 90 degree clockwise rotation of orange face
+U : 90 degree clockwise rotation of white face
+D : 90 degree clockwise rotation of yellow face
+F : 90 degree clockwise rotation of green face
+B : 90 degree clockwise rotation of blue face
+
+For the double turn moves (e.g. R2), the move R is performed twice.
+if a move is followed by an apostrophe (e.g. R'), the move R is performed counter-clockwise.
